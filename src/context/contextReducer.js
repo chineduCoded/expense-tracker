@@ -1,7 +1,7 @@
-const transactions = [
-    {id: 1,},
-    {id: 2,},
-]
+// const transactions = [
+//     {id: 1,},
+//     {id: 2,},
+// ]
 
 export const contextReducer = (state, action) => {
     let transactions
